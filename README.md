@@ -10,9 +10,9 @@ Thanks for checking out this Application.
 
 ### Built with
 
-- React Js
-- scss
-- JSX
+- JS
+- HTML
+- CSS
 
 
 
